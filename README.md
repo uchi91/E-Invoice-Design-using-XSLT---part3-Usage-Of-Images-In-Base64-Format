@@ -8,6 +8,6 @@ You can use them in this website https://www.base64-image.de/. Select one of the
 guide_copyingLogoInRightFormat.PNG shows how to do it.
 
 If you have trouble for structuring it in correct format, please directly look at the part3_UsageOfImagesInBase64Format.xslt file.
-You can see newly added parts between "<!--newly added part is below -->" and "<!--newly added part is above -->" comments.
+You can see newly added parts between "newly added part is below" and "newly added part is above" comments.
 
 You can see output of the transformation in output.html file.
