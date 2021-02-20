@@ -6,7 +6,7 @@ These areas to be changed can be seen [AreasToPlaceImages.PNG](AreasToPlaceImage
 
 * You can convert [companyLogo.PNG](companyLogo.PNG) and [ministryLogo.PNG](ministryLogo.PNG) into base64 format in websites like https://www.base64-image.de/
   * Select one of the PNG file. 
-  * Then copy to clipboard the "For use in <img> elements" part as it shows [guide_copyingLogoInRightFormat.PNG](guide_copyingLogoInRightFormat.PNG)
+  * Then copy to clipboard the "For use in <img> elements" part as it shows [copyingLogoInRightFormat.PNG](copyingLogoInRightFormat.PNG)
   * If you have trouble for structuring it in correct format, please directly look at the [part3_UsageOfImagesInBase64Format.xslt](part3_UsageOfImagesInBase64Format.xslt) file.
 
 * You can see newly added parts according to previous part between "newly added part is below" and "newly added part is above" comments.
